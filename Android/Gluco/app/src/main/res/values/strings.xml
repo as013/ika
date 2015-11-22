@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gluco</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <string-array name="menu">
+        <item>Home</item>
+        <item>Cek Gula Darah</item>
+        <item>Rekam Medis</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
